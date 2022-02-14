@@ -1,6 +1,6 @@
 # Theme
 import:
-- ~/.config/alacritty/aura-theme.yml
+- ~/repos/alacritty-config/aura-theme.yml
 
 # Font configuration
 font:
