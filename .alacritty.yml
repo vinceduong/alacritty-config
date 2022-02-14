@@ -1,0 +1,9 @@
+# Theme
+import:
+- ~/.config/alacritty/aura-theme.yml
+
+# Font configuration
+font:
+  # Normal (roman) font face
+  size: 14.0
+
